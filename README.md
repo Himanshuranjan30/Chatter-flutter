@@ -1,4 +1,4 @@
-# chatter
+# Google Auth Firebase
 
 A new Flutter project.
 
